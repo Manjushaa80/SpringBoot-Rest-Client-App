@@ -9,6 +9,9 @@ public class Product {
 	private String compannyName;
 	private String productCategory;
 	private String productColor;
+
+        privte String brand;
+
 	public Integer getProductId() {
 		return productId;
 	}

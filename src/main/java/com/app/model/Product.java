@@ -67,6 +67,8 @@ public class Product {
 				+ ", compannyName=" + compannyName + ", productCategory=" + productCategory + ", productColor="
 				+ productColor + "]";
 	}
-	
+	public void m1()
+	{
+System.out.println("m1 method is add");
 
 }

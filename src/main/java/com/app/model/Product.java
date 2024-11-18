@@ -10,7 +10,7 @@ public class Product {
 	private String productCategory;
 	private String productColor;
 
-        privte String brand;
+        
 
 	public Integer getProductId() {
 		return productId;

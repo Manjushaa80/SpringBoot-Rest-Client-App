@@ -67,6 +67,7 @@ public class Product {
 				+ ", compannyName=" + compannyName + ", productCategory=" + productCategory + ", productColor="
 				+ productColor + "]";
 	}
+<<<<<<< HEAD
      
            
        public void m1(){
